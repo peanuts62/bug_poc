@@ -5,3 +5,5 @@ in the mainfunction.cgi use ida could find the bug.
 ![](./ida.jpeg)
 ![](./1.png)
 when http aciton=toLogin2FA can hacked
+
+assign CVE-2020-19664
